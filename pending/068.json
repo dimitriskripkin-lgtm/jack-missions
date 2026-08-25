@@ -1,0 +1,1 @@
+{"id":"068","act":"no_secret","file":"~/jack/jack_approval.py","patterns":["~/jack\"","home/jack\""],"expect":"FAIL"}

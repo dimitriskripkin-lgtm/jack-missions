@@ -1,0 +1,1 @@
+{"id":"070","act":"no_secret","file":"~/jack/jack_cortex.py","patterns":["except:\n","except: "],"expect":"PASS"}
