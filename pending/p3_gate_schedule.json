@@ -1,1 +1,0 @@
-{"id": "p3_gate_schedule", "act": "line_check", "file": "~/jack/jack_ollama_gate.py", "must_contain": "_schedule_stop", "expect": "PASS"}

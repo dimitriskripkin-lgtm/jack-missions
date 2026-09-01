@@ -1,1 +1,0 @@
-{"id": "p1_no_localhost_ollama", "act": "grep_count", "file": "~/jack/jack_gemini_bridge.py", "pattern": "localhost:11434", "expect_max": 0, "expect": "FAIL"}

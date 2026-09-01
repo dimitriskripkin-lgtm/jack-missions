@@ -1,1 +1,0 @@
-{"id": "p2_graph_hund", "act": "line_check", "file": "~/jack/jack_graph.py", "must_contain": "Hund", "expect": "PASS"}

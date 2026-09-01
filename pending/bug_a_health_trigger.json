@@ -1,1 +1,0 @@
-{"id": "bug_a_health_trigger", "title": "Bug A: Health-Trigger nur auf Usersatz, nicht History", "act": "grep_count", "file": "~/jack/jack_talk.py", "pattern": "_full_prompt", "expect_max": 0, "expect": "FAIL"}

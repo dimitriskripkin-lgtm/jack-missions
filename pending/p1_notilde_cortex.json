@@ -1,1 +1,0 @@
-{"id": "p1_notilde_cortex", "act": "grep_count", "file": "~/jack/jack_cortex.py", "pattern": "'~", "expect_max": 0, "expect": "PASS"}

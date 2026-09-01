@@ -1,1 +1,0 @@
-{"id": "p3_runner_no_exec", "act": "grep_count", "file": "~/jack/jack_mission_runner.py", "pattern": "os.system", "expect_max": 0, "expect": "PASS"}

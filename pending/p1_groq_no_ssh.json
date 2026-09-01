@@ -1,1 +1,0 @@
-{"id": "p1_groq_no_ssh", "act": "grep_count", "file": "~/jack/jack_talk.py", "pattern": "subprocess", "expect_max": 0, "expect": "PASS"}

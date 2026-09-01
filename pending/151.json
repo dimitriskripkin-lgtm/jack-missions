@@ -1,1 +1,0 @@
-{"id":"151","act":"line_check","file":"~/jack/jack_talk.py","must_contain":"KONTEXT aus frueheren","must_not_contain":"sag NIE dass du dich nicht erinnerst","expect":"PASS"}

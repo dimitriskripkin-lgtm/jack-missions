@@ -1,1 +1,0 @@
-{"id":"080b","act":"line_check","file":"~/jack/jack_write.py","must_contain":"if __name__","must_not_contain":"commit_write(\"../../HACK","expect":"PASS"}

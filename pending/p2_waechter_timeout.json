@@ -1,1 +1,0 @@
-{"id": "p2_waechter_timeout", "act": "line_check", "file": "~/jack/jack_autonomous.py", "must_contain": "ConnectTimeout=8", "expect": "PASS"}

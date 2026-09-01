@@ -1,1 +1,0 @@
-{"id": "bug_b_free_edge", "title": "Bug B: Freie Graph-Kante aus Aussage (Ich habe/bin/mag)", "act": "line_check", "file": "~/jack/jack_talk.py", "must_contain": "put_edge", "expect": "PASS"}

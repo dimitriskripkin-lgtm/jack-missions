@@ -1,1 +1,0 @@
-{"id": "p2_persona_single", "act": "grep_count", "file": "~/jack/jack_talk.py", "pattern": "persona.md", "expect_max": 1, "expect": "PASS"}

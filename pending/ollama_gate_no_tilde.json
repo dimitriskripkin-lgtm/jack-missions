@@ -1,1 +1,0 @@
-{"id": "ollama_gate_no_tilde", "title": "Ollama-Gate: Keine Tilde in Pfaden", "act": "no_secret", "file": "~/jack/jack_ollama_gate.py", "expect": "PASS"}

@@ -1,1 +1,0 @@
-{"id":"106","act":"json_valid","file":"~/jack/jack_identity.json","required_fields":["owner","role","device_host"],"expect":"PASS"}

@@ -1,1 +1,0 @@
-{"id":"077","act":"no_secret","file":"~/jack/jack_telegram.py","patterns":["except Exception","try:"],"expect":"FAIL"}

@@ -1,1 +1,0 @@
-{"id":"191","act":"compile_ok","files":["jack_telegram.py","jack_gemini_bridge.py","jack_approval.py","jack_cortex.py","jack_autonomous.py"],"expect":"PASS"}

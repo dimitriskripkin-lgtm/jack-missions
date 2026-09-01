@@ -1,1 +1,0 @@
-{"id": "p3_runner_allowed", "act": "line_check", "file": "~/jack/jack_mission_runner.py", "must_contain": "ALLOWED", "expect": "PASS"}

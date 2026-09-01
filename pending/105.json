@@ -1,1 +1,0 @@
-{"id":"105","act":"json_valid","file":"~/jack/jack_tune.json","required_fields":["focus_sleep_s","genesis_skip","autolearn_idle_s"],"expect":"PASS"}

@@ -1,1 +1,0 @@
-{"id": "ollama_gate_import", "title": "Ollama-Gate: Import OK + TEMP_MAX korrekt gesetzt", "act": "line_check", "file": "~/jack/jack_ollama_gate.py", "must_contain": "TEMP_MAX  = 52.0", "must_not_contain": "TEMP_MAX  = 40.0", "expect": "PASS"}

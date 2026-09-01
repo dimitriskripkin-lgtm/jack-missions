@@ -1,1 +1,0 @@
-{"id": "bug_a_fix_verify", "title": "Bug A: Verify Fix - user_text statt _q für Health-Check", "act": "line_check", "file": "~/jack/jack_talk.py", "must_contain": "user_text", "must_not_contain": "history in _q", "expect": "PASS"}

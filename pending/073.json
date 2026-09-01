@@ -1,1 +1,0 @@
-{"id":"073","act":"no_secret","file":"~/jack/jack_telegram.py","patterns":["handle_callback(cb.get"],"expect":"FAIL"}

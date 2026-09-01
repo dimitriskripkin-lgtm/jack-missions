@@ -1,1 +1,0 @@
-{"id":"072","act":"no_secret","file":"~/jack/jack_autonomous.py","patterns":["except: ","except:\n"],"expect":"FAIL"}

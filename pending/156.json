@@ -1,1 +1,0 @@
-{"id":"156","act":"line_check","file":"~/jack/jack_cortex.py","must_contain":"socket","must_not_contain":"ping","expect":"PASS"}

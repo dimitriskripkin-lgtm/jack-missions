@@ -1,1 +1,0 @@
-{"id":"082","act":"grep_count","file":"~/jack/jack_gemini_bridge.py","pattern":"/data/data/com.termux/files/home/jack/","expect_max":0,"expect":"FAIL"}

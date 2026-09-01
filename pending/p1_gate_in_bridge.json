@@ -1,1 +1,0 @@
-{"id": "p1_gate_in_bridge", "act": "line_check", "file": "~/jack/jack_gemini_bridge.py", "must_contain": "jack_ollama_gate", "expect": "PASS"}

@@ -1,1 +1,0 @@
-{"id": "bug_d_halluz_guard", "title": "Bug D: Groq-Halluzination Code-Rot/Sektor7 nicht im Graph", "act": "line_check", "file": "~/jack/jack_talk.py", "must_not_contain": "Code-Rot", "expect": "PASS"}

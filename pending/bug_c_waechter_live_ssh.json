@@ -1,1 +1,0 @@
-{"id": "bug_c_waechter_live_ssh", "title": "Bug C: Waechter nutzt Live-SSH-Probe nicht Result-Datei", "act": "line_check", "file": "~/jack/jack_autonomous.py", "must_contain": "BatchMode=yes", "must_not_contain": "overmind_result.json", "expect": "PASS"}
